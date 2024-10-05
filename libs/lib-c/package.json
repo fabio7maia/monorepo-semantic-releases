@@ -1,5 +1,5 @@
 {
-  "name": "@mono/lib-c",
+  "name": "@react-xp/lib-c",
   "version": "0.2.0",
   "license": "MIT",
   "main": "index.js",
